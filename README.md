@@ -1,1 +1,1 @@
-# BT1_PythonNC
+Hoàng Minh Trí
